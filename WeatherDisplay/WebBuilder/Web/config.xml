@@ -1,0 +1,9 @@
+<app>
+    <app-name>Weather Report</app-name>
+    <cdn-list>
+        <cdn type="js">https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js<cdn>
+    <cdn-list>
+    <build>
+        
+    </build>
+</app>
